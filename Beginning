@@ -1,0 +1,7 @@
+//A simple C program to print "HELLO WORLD " on the users screen
+#include <stdio.h>                //Header file declaration
+void main(void)                   //main function declaration 
+{
+     printf("HELLO WORLD\n");.    //Printing of the statement
+     return;
+}
